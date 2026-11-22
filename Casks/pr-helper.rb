@@ -1,6 +1,6 @@
 cask "pr-helper" do
-  version "0.3.0"
-  sha256 "13e402dcc6fc7d533a9c876f147719af3834a66b695297ef8f3bb0def2c9bf96"
+  version "0.3.1"
+  sha256 "ae610bd267893ea537e9f7cf18dde1a3763677d4d4324a41cbef6c762b225e95"
 
   url "https://github.com/Joessst-Dev/pr-helper/releases/download/v#{version}/PR-Helper_#{version}_universal.dmg"
   name "PR Helper"
